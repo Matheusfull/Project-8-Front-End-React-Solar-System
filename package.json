@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Matheusfull.github.io/Project-8-Front-End-React-Solar-System",
+  "homepage": "https://matheusfull.github.io/Project-8-Front-End-React-Solar-System",
   "name": "solar-system",
   "version": "0.1.0",
   "private": true,
@@ -22,7 +22,7 @@
     "lint:styles": "npx stylelint '**/*.css'",
     "lint": "eslint --no-inline-config --no-error-on-unmatched-pattern -c .eslintrc.json . --ext .js,.jsx",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
