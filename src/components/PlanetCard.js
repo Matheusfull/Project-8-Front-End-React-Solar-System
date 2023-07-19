@@ -21,3 +21,7 @@ PlanetCard.propTypes = {
 };
 
 export default PlanetCard;
+
+/*
+Req 5 - Usaremos as props para serem renderizadas neste componente, mostrando assim o nome do planeta e a imagem.
+*/

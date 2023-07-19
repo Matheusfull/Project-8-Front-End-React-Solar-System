@@ -27,3 +27,11 @@ class Missions extends React.Component {
 }
 
 export default Missions;
+
+/*
+Req 7 - Vamos só criar um componente de estruturação em que terá uma div e será renderizado no App.js
+*/
+
+/*
+Req 10 - Vamos apenas fazer um map na lista de missões e para cada uma vamos passá-la como props para o componente MissionCard
+*/

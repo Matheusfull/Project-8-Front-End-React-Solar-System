@@ -23,3 +23,7 @@ MissionsCard.propTypes = {
 };
 
 export default MissionsCard;
+
+/*
+Req 9 - Vamos apenas criar a estrutura do card que receberá 4 props e vai renderizar cada props. É bem simples a ideia, apenas faz uma estruturação padronizada.
+*/
